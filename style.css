@@ -1,0 +1,28 @@
+html *{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(bg.png);
+	background-size: 1300px;
+	position: absolute;
+	width: 900000000px;
+	height: 100%;
+	
+}
+.bird{
+	width: 100px;
+	height: 200px;
+	
+	position: relative;
+
+	top: 320px;
+	bottom: 0px;
+	margin-left: 50px;
+	transition: top .8s, bottom .4s;
+	
+	
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
