@@ -7,7 +7,7 @@
             xxhdpi  : 144x144 px
             xxxhdpi : 192x192 px
         -->
-        
+        <name>tap tap bird</name>
         <icon src="icon.png" density="mdpi" />
         
     </platform>
